@@ -1,0 +1,28 @@
+name: 'Free Association '
+favicon: null
+layout_spectrum: 0.7768970516044647
+typography_spectrum: 0.4526128554716706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7035438411403447
+  lightness: 0.8964038339909166
+  saturation: 0.15613503474742174
+  rhythmicContrast: 0.23319319146685302
+purpose: []
