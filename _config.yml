@@ -2,6 +2,7 @@ name: 'Free Association '
 favicon: null
 layout_spectrum: 0.7768970516044647
 typography_spectrum: 0.4526128554716706
+title: 'Free Association '
 cta:
   domain: null
   bucket: null
